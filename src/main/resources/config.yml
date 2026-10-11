@@ -1,3 +1,4 @@
 settings:
-  throw-speed: 0.5 # Скорость выброса ведра
-  enable-sounds: true # Включить/выключить звук доения
+  throw-speed: 0.5
+  enable-sounds: true
+  detection-radius: 1.2
