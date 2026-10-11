@@ -4,7 +4,7 @@ Automated milk production with dispensers
 
 ## Download plugin
 
-* [release](https://gitlab.com/Maksosn1k/milkomatic/-/releases) or [modrinth](https://modrinth.com/plugin/milkomatic)
+* [release](https://github.com/Maksosn1k/Milkomatic/releases) or [modrinth](https://modrinth.com/plugin/milkomatic)
 
 ## Config settings
 ```
@@ -14,5 +14,5 @@ settings:
   detection-radius: 1.2
 ```
 <a href="https://modrinth.com/plugin/milkomatic">
-  <img src="https://cdn2.steamgriddb.com/grid/54bed33a9a7f84346018192fe26d4357.png" alt="Скачать" width="200" />
+  <img src="https://cdn2.steamgriddb.com/grid/54bed33a9a7f84346018192fe26d4357.png" alt="Download" width="200" />
 </a>
